@@ -1,0 +1,65 @@
+{
+ "name": "Demo Environment",
+ "children": [
+  {
+   "name": "Service",
+   "children": [
+    {
+      "name": "Citizen Activated Services",
+      "image": "./images/citizen-activated.png",
+      "size": 3938
+    },
+    {
+      "name": "Balance between user and system needs",
+      "image": "./images/citizen-activated.png",
+      "size": 3938
+    },
+    {
+      "name": "Predictive and proportionate care",
+      "image": "./images/citizen-activated.png",
+      "size": 3938
+    }
+   ]
+  },
+  {
+   "name": "Technical",
+   "children": [
+     {
+       "name": "Create data only once",
+       "image": "./images/citizen-activated.png",
+       "size": 3938
+     },
+     {
+       "name": "Trust in distributed data",
+       "image": "./images/citizen-activated.png",
+       "size": 3938
+     },
+     {
+       "name": "Personal ownership of data",
+       "image": "./images/citizen-activated.png",
+       "size": 3938
+     }
+   ]
+  },
+  {
+   "name": "Commercial",
+   "children": [
+     {
+       "name": "Open solutions that scale and evolve",
+       "image": "./images/citizen-activated.png",
+       "size": 3938
+     },
+     {
+       "name": "Services not products",
+       "image": "./images/citizen-activated.png",
+       "size": 3938
+     },
+     {
+       "name": "Serve the consumer and the commissioner",
+       "image": "./images/citizen-activated.png",
+       "size": 3938
+     }
+   ]
+  }
+ ]
+}
